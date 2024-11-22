@@ -1,6 +1,6 @@
 # Bienvenue sur le dépôt des TP de NoSQL
 
-Bienvenue dans le dépôt des travaux pratiques (TP) de NoSQL ! Ce projet contient une série de TP pour apprendre à utiliser et à comprendre les bases de données NoSQL, en particulier Redis. Vous y trouverez des exemples pratiques d'utilisation des différentes commandes et concepts de Redis, ainsi que des exercices pour mettre en pratique vos compétences.
+Bienvenue dans le dépôt des travaux pratiques (TP) de NoSQL ! Ce projet contient une série de TP pour apprendre à utiliser et à comprendre les bases de données NoSQL. Vous y trouverez des exemples pratiques d'utilisation des différentes commandes et concepts de BD NOSQL.
 
 ## Contenu du dépôt tp_Redis
 
