@@ -13,12 +13,12 @@ Bienvenue dans le dépôt des travaux pratiques (TP) de NoSQL ! Ce projet contie
 
 # Contenu du TP MongoDB
 
-## 1. Prise en main de MongoDB
+- **Prise en main de MongoDB**
 - Installation, Démarrage de MongoDB et connexion via le client MongoDB en ligne de commande.
-## 2. Interrogations de la base de données
+- **Interrogations de la base de données**
 - Utilisation de la méthode `find()` pour afficher des films selon des critères spécifiques (par genre, pays, etc.).
 - Application de filtres pour des recherches avancées (par exemple, notes supérieures à un certain seuil).
-## 3. Gestion des structures de données
+- **Gestion des structures de données**
 - Manipulation des différentes structures dans MongoDB, telles que les tableaux d'objets imbriqués (par exemple, acteurs et notes des films).
 - Utilisation de la méthode `distinct()` pour afficher les différents genres ou grades attribués aux films.
 
@@ -30,3 +30,4 @@ Bienvenue dans le dépôt des travaux pratiques (TP) de NoSQL ! Ce projet contie
 1. Clonez le dépôt sur votre machine locale :
    ```bash
    git clone git@github.com:AhmedAbdoulahi/NOSQL.git
+   https://github.com/AhmedAbdoulahi/NOSQL.git
