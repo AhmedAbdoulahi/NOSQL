@@ -30,4 +30,4 @@ Bienvenue dans le dépôt des travaux pratiques (TP) de NoSQL ! Ce projet contie
 1. Clonez le dépôt sur votre machine locale :
    ```bash
    git clone git@github.com:AhmedAbdoulahi/NOSQL.git
-   https://github.com/AhmedAbdoulahi/NOSQL.git
+   git clone https://github.com/AhmedAbdoulahi/NOSQL.git
