@@ -2,7 +2,7 @@
 
 Bienvenue dans le dépôt des travaux pratiques (TP) de NoSQL ! Ce projet contient une série de TP pour apprendre à utiliser et à comprendre les bases de données NoSQL. Vous y trouverez des exemples pratiques d'utilisation des différentes commandes et concepts de BD NOSQL.
 
-## Contenu du tp_Redis
+# Contenu du tp_Redis
 
 - **Prise en main de Redis** : Comment démarrer Redis et se connecter au client en ligne de commande.
 - **Exemples de CRUD** : Créer, lire, mettre à jour et supprimer des données avec Redis.
